@@ -11,9 +11,9 @@ Mainly focusing on High-quality Sustainable and valuable products that helps you
 The project  **focuses on Many Objectives**  that includes:  
 - Building a clear **brand identity** (logo, colors, typography, style guide).  
 - Focusing on basics Of **building A Real Brand** Market Research & SWOAT Analysis. 
-- Designing **complementary educational products** (flash cards, activity book, puzzle/mockups).  
+- Designing **complementary Strategies** (Content Strategy And A media Buying Plan. 
 
-This project transforms complex educational and accessibility ideas into **visual messages** that help the community understand the importance of inclusion and accessible learning tools.  
+This project transforms complex Marketing Strategies Into **Actual Plan** that helps Audeince to understand the Main Goals And Values Of The Brand That Leads To Success.  
 
 ---
 
