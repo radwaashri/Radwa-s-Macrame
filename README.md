@@ -1,63 +1,70 @@
 
 # Radwa's Macrame 
 
-a local brand founded in 2021 based in Egypt that provides a wide range of hand crafted 
+A local brand founded in 2021 based in Egypt that provides a wide range of hand crafted 
 ---
 
 ## Project Idea  
 
 **Radwa'sMacrame** Is A proudly a local brand founded in 2021 based in Egypt that provides a wide range of hand crafted macrame pieces like wall hangers, baby room decor, Curtains, bags, slippers and different types of woman accessories using diffrent types of yarn.
 Mainly focusing on High-quality Sustainable and valuable products that helps you with the perfect choice whether you need it for your home decoration or gifting your beloved ones.
-The project focuses on creating a **comprehensive graphic campaign** that includes:  
+The project  **focuses on Many Objectives**  that includes:  
 - Building a clear **brand identity** (logo, colors, typography, style guide).  
-- Producing **visual communication materials** (posters, brochures, social media carousels, merchandising).  
+- Focusing on basics Of **building A Real Brand** Market Research & SWOAT Analysis. 
 - Designing **complementary educational products** (flash cards, activity book, puzzle/mockups).  
 
 This project transforms complex educational and accessibility ideas into **visual messages** that help the community understand the importance of inclusion and accessible learning tools.  
 
 ---
 
-## Team Members (pentaRae)  
 
-- إبتسام عاطف عبدالله إسماعيل  
-- إسراء محمد عطا الله  
-- دعاء عباس السعيد عباس  
-- نورا عبدالله أحمد عبدالله  
-- ولاء محمد فوده سالم  
+## Team Members (The Tangled Tactics)  
+
+   - Radwa Mohamed Mabrouk El Ashri (Team Leader).
+   - Mohamed Gaber Mohamed Elnaggar. 
+   - Nouran Adel Abd El Moneim.
+   - Lobna Ehab Mohamed Fawzy Elbedewy.
+   - Tasneem Ibrahim Rashad.
+   - Hanaa Ahmed Anwer
 
 ---
 
 ## Work Plan  
 
 1. **Research & Analysis**  
-   - Audience personas  
-   - Competitor analysis  
-   - Moodboard  
+   - SWOT Analysis
+   - Competitors Analysis
+   - BUSINESS MODELCanvas
+   - Account Analysis
+  
 
 2. **Visual Identity**  
    - Logo design  
    - Color palette & typography  
    - Style guide  
 
-3. **Main Designs**  
-   - Poster  
-   - Tri-fold brochure  
-   - Social media carousel  
-   - Merchandising (t-shirt, mug, tote bag)  
-
-4. **Complementary Products**  
-   - Flash cards with QR codes  
-   - Activity book (sample pages)  
-   - Educational puzzle/game mockup  
+3. **Main Outputs**  
+   - SMART Objectives.
+   - Segmentation.  
+   - Buyer Personas.
+   - Value Proposition.
+   - Buyer Personas.
+   - Content Calendar.
+   - Media Buying Plan.
+4. **Complementary Outputs**  
+   - SEO Plan. 
+   - Wepsite.
+   - Analysis Report.
+   - KPIes&Recommendations.
 
 5. **Review & Finalization**  
    - Team review and improvements  
    - Export & delivery specs  
 
 6. **Final Presentation**  
-   - Behance-style portfolio  
-   - Presentation PDF  
-   - Upload to GitHub  
+   - Client Proposal Canva Style. 
+   - Presentation PDF.  
+   - Upload to GitHub.  
 
 ---
 
