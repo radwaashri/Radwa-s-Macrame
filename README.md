@@ -70,31 +70,36 @@ This project transforms complex Marketing Strategies Into **Actual Plan** that h
 
 ## Roles & Responsibilities  
 
-- **إبتسام عاطف (Team Leader)**  
+- **Radwa El Ashri (Team Leader)**  
   - Primary: Personas, Logo, Activity Book  
   - Secondary: Moodboard, Poster, Final Presentation, GitHub  
 
-- **ولاء سالم**  
+- **Mohamed Gaber Mohamed Elnaggar**  
   - Primary: Competitor Analysis, Colors & Typography, Brochure  
   - Secondary: Personas, Flash Cards, Style Guide, Digital Export  
 
-- **نورا عبدالله**  
+- **Nouran Adel Abd El Moneimه**  
   - Primary: Moodboard, Carousel, Flash Cards  
   - Secondary: Competitor Analysis, Logo, Puzzle  
 
-- **دعاء عباس**  
+- **Lobna Ehab Mohamed Fawzy Elbedewy**  
   - Primary: Poster, Puzzle/Game Mockup, Digital Delivery & Export Specs  
   - Secondary: Colors & Typography, Merch  
 
-- **إسراء محمد**  
+- **Tasneem Ibrahim Rashad**  
+
   - Primary: Style Guide, Merch, Final Presentation, GitHub  
-  - Secondary: Brochure, Carousel, Activity Book  
+  - Secondary: Brochure, Carousel, Activity Book
+
+- **Hanaa Ahmed Anwer**  
+
+
 
 ---
 
 ## Instructor  
 
-- **Eng. Mohamed Kamar**  
+- **Mr/ Safyeldin Ahmed**  
 
 ---
 
