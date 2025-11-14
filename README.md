@@ -71,12 +71,13 @@ This project transforms complex Marketing Strategies Into **Actual Plan** that h
 ## Roles & Responsibilities  
 
 - **Radwa El Ashri (Team Leader)**  
-  - Primary: Personas, Logo, Activity Book  
-  - Secondary: Moodboard, Poster, Final Presentation, GitHub  
+  - Primary: Introduction, value proposition, SMAR Objectives,Visual identity overviewing 
+    Involved in Content Calendar,SEO Plan,Recomendations. 
+  - Secondary: Moodboard, Final Presentation, GitHub  
 
 - **Mohamed Gaber Mohamed Elnaggar**  
-  - Primary: Competitor Analysis, Colors & Typography, Brochure  
-  - Secondary: Personas, Flash Cards, Style Guide, Digital Export  
+  - Primary: Account Analysis, SWOT Analysis,Competitor Analysis,Media Buying Plan & Implementations,Wepsite Bulding.
+  - Secondary: Analysis Report, KPIS.
 
 - **Nouran Adel Abd El Moneimه**  
   - Primary: Moodboard, Carousel, Flash Cards  
