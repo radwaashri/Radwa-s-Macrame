@@ -73,27 +73,26 @@ This project transforms complex Marketing Strategies Into **Actual Plan** that h
 - **Radwa El Ashri (Team Leader)**  
   - Primary: Introduction, value proposition, SMAR Objectives,Visual identity overviewing 
     Involved in Content Calendar,SEO Plan,Recomendations. 
-  - Secondary: Moodboard, Final Presentation, GitHub  
+  - Secondary: Moodboard, Final Presentation, GitHub.  
 
 - **Mohamed Gaber Mohamed Elnaggar**  
   - Primary: Account Analysis, SWOT Analysis,Competitor Analysis,Media Buying Plan & Implementations,Wepsite Bulding.
   - Secondary: Analysis Report, KPIS.
 
 - **Nouran Adel Abd El Moneimه**  
-  - Primary: Moodboard, Carousel, Flash Cards  
-  - Secondary: Competitor Analysis, Logo, Puzzle  
+  - Primary: Customer Segment, Buyer PersonasVisual Identity Desighning,Carousel & Creatives Desighning.
+  - Secondary: presentation Assembling Using Canva, Helping With Manage Meetings with team leader, Mb Plan Supscription 300LE. 
 
 - **Lobna Ehab Mohamed Fawzy Elbedewy**  
-  - Primary: Poster, Puzzle/Game Mockup, Digital Delivery & Export Specs  
-  - Secondary: Colors & Typography, Merch  
+  - Primary: Marketing Mix(product-price-place-promotion),Content Plan For November(1 Video-1Carousel), BMC(Cost Structure-Revenue Streams).
+  - Secondary: Mb Plan Supscription 200LE.
 
 - **Tasneem Ibrahim Rashad**  
 
-  - Primary: Style Guide, Merch, Final Presentation, GitHub  
-  - Secondary: Brochure, Carousel, Activity Book
-
+  - Primary:Marketing Mix(Physical Evedance-People), BMC( Key Activites-Key Partners-Key Reasources) 
+  - Secondary: Helped With Keyword Researsh For Hashtags Plan. 
 - **Hanaa Ahmed Anwer**  
-
+    Marketing Mix( Promotion), Content Plan (2Feed Posts For November Plan,BMC( Channels-Customer Relationship)
 
 
 ---
@@ -120,7 +119,7 @@ You are free to:
 - **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.  
 
 As long as you give **appropriate credit** to the creators:  
-**pentaRae Team – Ma‘een Project (2025)**  
+**The Tangled Tactics Team – Radwa's Macrame Project (2025)**  
 
 Full license text: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
