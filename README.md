@@ -68,31 +68,31 @@ This project transforms complex Marketing Strategies Into **Actual Plan** that h
 
 ---
 
-## Roles & Responsibilities  
+## Roles & Responsibilities  S
 
 - **Radwa El Ashri (Team Leader)**  
-  - Primary: Introduction, value proposition, SMAR Objectives,Visual identity overviewing 
-    Involved in Content Calendar,SEO Plan,Recomendations. 
-  - Secondary: Moodboard, Final Presentation, GitHub.  
+  - Primary: Introduction, value proposition,SMAR Objectives,Visual identity overviewing 
+    Content Plan For September&Content Creation Over All,SEO Plan(Using Semrush),Assembling Products Gallery On Website,Recomendations. 
+  - Secondary: General Directions,Schedueling Meetings,Roles Setting,Mb Plan Fees 700LE,GitHub.  
 
 - **Mohamed Gaber Mohamed Elnaggar**  
-  - Primary: Account Analysis, SWOT Analysis,Competitor Analysis,Media Buying Plan & Implementations,Wepsite Bulding.
-  - Secondary: Analysis Report, KPIS.
+  - Primary: Account Analysis,SWOT Analysis,Competitor Analysis,Media Buying Plan & Implementations,Wepsite Bulding(Using Easy Orders).
+  - Secondary:Website Technical Issues And Domain Buying,Enhanced Website Final Look And Integrate It With Meta, Analysis Report,KPIS.
 
 - **Nouran Adel Abd El Moneimه**  
-  - Primary: Customer Segment, Buyer PersonasVisual Identity Desighning,Carousel & Creatives Desighning.
-  - Secondary: presentation Assembling Using Canva, Helping With Manage Meetings with team leader, Mb Plan Supscription 300LE. 
+  - Primary: Customer Segment, Buyer Personas,Visual Identity Desighning,Carousel & Visuals Desighning For Both (Content&Mb plan And Website).
+  - Secondary: presentation Assembling Using Canva,Helping With Manage Meetings with team leader,Mb Plan Fees 300LE. 
 
 - **Lobna Ehab Mohamed Fawzy Elbedewy**  
-  - Primary: Marketing Mix(product-price-place-promotion),Content Plan For November(1 Video-1Carousel), BMC(Cost Structure-Revenue Streams).
-  - Secondary: Mb Plan Supscription 200LE.
+  - Primary: Marketing Mix(product-price-place-promotion),Content Plan For November(1 Video-1Carousel),BMC(Cost Structure-Revenue Streams).
+  - Secondary: Mb Plan Fees 200LE.
 
 - **Tasneem Ibrahim Rashad**  
 
   - Primary:Marketing Mix(Physical Evedance-People), BMC( Key Activites-Key Partners-Key Reasources) 
   - Secondary: Helped With Keyword Researsh For Hashtags Plan. 
 - **Hanaa Ahmed Anwer**  
-    Marketing Mix( Promotion), Content Plan (2Feed Posts For November Plan,BMC( Channels-Customer Relationship)
+    Marketing Mix( Promotion),Content Plan (2Feed Posts For November Plan),BMC( Channels-Customer Relationship).
 
 
 ---
@@ -106,7 +106,7 @@ This project transforms complex Marketing Strategies Into **Actual Plan** that h
 ## Project Files  
 
 You can find the full project files here:  
-[📂 Google Drive Link](https://drive.google.com/drive/folders/1jrW-h3rvsHhxA_ArJ7i3d30VUhPmKGn0?usp=sharing)
+[📂 Google Drive Link]([https://drive.google.com/drive/folders/1jrW-h3rvsHhxA_ArJ7i3d30VUhPmKGn0?usp=sharing](https://drive.google.com/drive/folders/153a36oyr7uIUyxkuSOo_5QZjnfvf36_q?usp=sharing))
 
 ---
 
