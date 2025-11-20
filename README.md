@@ -68,12 +68,12 @@ This project transforms complex Marketing Strategies Into **Actual Plan** that h
 
 ---
 
-## Roles & Responsibilities  S
+## Roles & Responsibilities ##
 
 - **Radwa El Ashri (Team Leader)**  
   - Primary: Introduction, value proposition,SMAR Objectives,Visual identity overviewing 
-    Content Plan For September&Content Creation Over All,SEO Plan(Using Semrush),Assembling Products Gallery On Website,Recomendations. 
-  - Secondary: General Directions,Schedueling Meetings,Roles Setting,Mb Plan Fees 700LE,GitHub.  
+    Content Plan For September &Content Creation Over All(Reels Scrits),SEO Plan(Using Semrush),Assembling Products Gallery On Website,Recomendations. 
+  - Secondary: General Directions,Schedueling Meetings,Roles Setting,Moderation During Mb Campaign (Replying On Customers& Follow Up),Githup.  
 
 - **Mohamed Gaber Mohamed Elnaggar**  
   - Primary: Account Analysis,SWOT Analysis,Competitor Analysis,Media Buying Plan & Implementations,Wepsite Bulding(Using Easy Orders).
@@ -81,16 +81,14 @@ This project transforms complex Marketing Strategies Into **Actual Plan** that h
 
 - **Nouran Adel Abd El Moneimه**  
   - Primary: Customer Segment, Buyer Personas,Visual Identity Desighning,Carousel & Visuals Desighning For Both (Content&Mb plan And Website).
-  - Secondary: presentation Assembling Using Canva,Helping With Manage Meetings with team leader,Mb Plan Fees 300LE. 
+  - Secondary: presentation Assembling Using Canva,Helping With Manage Meetings with team leader.
 
 - **Lobna Ehab Mohamed Fawzy Elbedewy**  
-  - Primary: Marketing Mix(product-price-place-promotion),Content Plan For November(1 Video-1Carousel),BMC(Cost Structure-Revenue Streams).
-  - Secondary: Mb Plan Fees 200LE.
-
+  - Primary: Marketing Mix(product-price-place-promotion),Content Plan For November(1 Video-1Carousel),BMC(Cost Structure-Revenue Streams-Customer Segment-Value Proposition).
+  - Secondary: Moderation During Mb Campaign (Replying On Customers& Follow Up).
 - **Tasneem Ibrahim Rashad**  
-
   - Primary:Marketing Mix(Physical Evedance-People), BMC( Key Activites-Key Partners-Key Reasources) 
-  - Secondary: Helped With Keyword Researsh For Hashtags Plan. 
+  - Secondary: Helped With Keyword Researsh For Hashtags Plan Task. 
 - **Hanaa Ahmed Anwer**  
     Marketing Mix( Promotion),Content Plan (2Feed Posts For November Plan),BMC( Channels-Customer Relationship).
 
