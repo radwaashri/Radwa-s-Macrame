@@ -51,15 +51,15 @@ This project transforms complex Marketing Strategies Into **Actual Plan** that h
    - Buyer Personas.
    - Content Calendar.
    - Media Buying Plan.
-4. **Complementary Outputs**  
    - SEO Plan. 
+4. **Complementary Outputs**  
    - Wepsite.
-   - Analysis Report.
-   - KPIes&Recommendations.
+   - KPIes
+   - Analysis Report,Recommendations.
 
 5. **Review & Finalization**  
-   - Team review and improvements  
-   - Export & delivery specs  
+   - Team review and improvements.  
+   - Export & delivery specs.  
 
 6. **Final Presentation**  
    - Client Proposal Canva Style. 
@@ -111,8 +111,8 @@ You can find the full project files here:
 This project is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
 
 You are free to:  
-- **Share** — copy and redistribute the material in any medium or format.  
-- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.  
+- **Share** — copy and redistribute the material As just A referance. 
+- **not allowed to** — remix, transform, and build upon the material for any purpose, even commercially.  
 
 As long as you give **appropriate credit** to the creators:  
 **The Tangled Tactics Team – Radwa's Macrame Project (2025)**  
