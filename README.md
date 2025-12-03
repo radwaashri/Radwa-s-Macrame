@@ -102,7 +102,7 @@ This project transforms complex Marketing Strategies Into **Actual Plan** that h
 ## Project Files  
 
 You can find the full project files here:  
-[📂 Google Drive Link]([[https://drive.google.com/drive/folders/1jrW-h3rvsHhxA_ArJ7i3d30VUhPmKGn0?usp=sharing](https://drive.google.com/drive/folders/153a36oyr7uIUyxkuSOo_5QZjnfvf36_q?usp=sharing](https://drive.google.com/drive/folders/153a36oyr7uIUyxkuSOo_5QZjnfvf36_q?usp=sharing)))
+[📂 Google Drive Link]([[[https://drive.google.com/drive/folders/1jrW-h3rvsHhxA_ArJ7i3d30VUhPmKGn0?usp=sharing](https://drive.google.com/drive/folders/153a36oyr7uIUyxkuSOo_5QZjnfvf36_q?usp=sharing](https://drive.google.com/drive/folders/153a36oyr7uIUyxkuSOo_5QZjnfvf36_q?usp=sharing)))](https://drive.google.com/drive/folders/153a36oyr7uIUyxkuSOo_5QZjnfvf36_q?usp=sharing)
 
 ---
 
